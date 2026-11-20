@@ -1,6 +1,6 @@
 
 getwd()
-setwd("C:/Users/cau/Desktop/지용쓰/SAS/R 실습")
+setwd("본인 폴더 경로로 수정")
 
 library(tidyverse)
 library(haven)
